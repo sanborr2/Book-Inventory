@@ -1,0 +1,118 @@
+Reading List1.txt
+Using Change1.txt to change collection1
+ISBN 030746363X not found in the collection. Cannot change stock.
+ISBN 0123456789 not found in the collection. Cannot change stock.
+ISBN 1455503304 not found in the collection. Cannot change stock.
+ISBN 0316037915 has insufficient stock for sale.
+ISBN 0123456789 not found in collection. Cannot change price.
+ISBN 1401324312 has insufficient stock for sale.
+
+Collection number 1
+*******************
+Silverlicious                  0061781231 17.99 24 hardcover 
+Strengths Finder               159562015X 17.99 0  hardcover 
+Heaven is for Real             0849946158 16.99 2  paperback 
+Veganist                       1602861331 25.00 0  hardcover 
+Tick Tock                      0316037915 17.99 0  hardcover 
+Unbroken                       1400064163 27.00 10 hardcover 
+Cancer                         0978806506 32.95 5  paperback 
+In the Blink of an Eye         1401324312 24.99 0  hardcover 
+The 5 Love Languages           0802473156 14.99 0  paperback 
+Battle Hymn of the Tiger ...   1594202842 25.95 5  hardcover 
+Battle Hymn of the Tiger ...   1101475455 12.99 0  ebook     
+Known and Unknown              159523067X 19.99 0  hardcover 
+The Girl Who Kicked Over ...   030726999X 27.95 0  hardcover 
+Moon Over Manifest             0385738838 16.99 0  hardcover 
+West of Her                    1565129520 24.95 0  hardcover 
+Lord of Misrule                0929701836 25.00 2  hardcover 
+
+The total value of Collection number 1 is $1080.24.
+
+Reading List2.txt
+Using Change2.txt to change collection2
+ISBN 159523067X not found in the collection. Cannot change stock.
+ISBN 1565129520 not found in the collection. Cannot change stock.
+ISBN 0385738838 not found in the collection. Cannot sell.
+ISBN 1101475455 not found in collection. Cannot change price.
+ISBN 0316037915 has insufficient stock for sale.
+ISBN 159562015X not found in collection. Cannot change price.
+ISBN 1455503304 has insufficient stock for sale.
+
+Collection number 2
+*******************
+Veganist                       1602861331 25.00 1  hardcover 
+Water for Elephants            0123456789  5.00 0  ebook     
+The Girl Who Kicked Over ...   030726999X 24.95 12 hardcover 
+Tick Tock                      0316037915 17.99 3  hardcover 
+Unbroken                       1400064163 27.00 0  hardcover 
+The 4-Hour Body                030746363X 27.00 10 hardcover 
+The Lean belly Prescription    1609610237 24.99 0  hardcover 
+The Investment Answer          1455503304 18.00 0  hardcover 
+Silverlicious                  0061781231 15.99 15 hardcover 
+
+The total value of Collection number 2 is $888.22.
+
+Merging collection 1 and collection 2
+
+Collection number 1
+*******************
+Silverlicious                  0061781231 17.99 24 hardcover 
+Strengths Finder               159562015X 17.99 0  hardcover 
+Heaven is for Real             0849946158 16.99 2  paperback 
+Veganist                       1602861331 25.00 0  hardcover 
+Tick Tock                      0316037915 17.99 0  hardcover 
+Unbroken                       1400064163 27.00 10 hardcover 
+Cancer                         0978806506 32.95 5  paperback 
+In the Blink of an Eye         1401324312 24.99 0  hardcover 
+The 5 Love Languages           0802473156 14.99 0  paperback 
+Battle Hymn of the Tiger ...   1594202842 25.95 5  hardcover 
+Battle Hymn of the Tiger ...   1101475455 12.99 0  ebook     
+Known and Unknown              159523067X 19.99 0  hardcover 
+The Girl Who Kicked Over ...   030726999X 27.95 0  hardcover 
+Moon Over Manifest             0385738838 16.99 0  hardcover 
+West of Her                    1565129520 24.95 0  hardcover 
+Lord of Misrule                0929701836 25.00 2  hardcover 
+
+The total value of Collection number 1 is $1080.24.
+
+
+Collection number 2
+*******************
+Veganist                       1602861331 25.00 1  hardcover 
+Water for Elephants            0123456789  5.00 0  ebook     
+The Girl Who Kicked Over ...   030726999X 24.95 12 hardcover 
+Tick Tock                      0316037915 17.99 3  hardcover 
+Unbroken                       1400064163 27.00 0  hardcover 
+The 4-Hour Body                030746363X 27.00 10 hardcover 
+The Lean belly Prescription    1609610237 24.99 0  hardcover 
+The Investment Answer          1455503304 18.00 0  hardcover 
+Silverlicious                  0061781231 15.99 15 hardcover 
+
+The total value of Collection number 2 is $888.22.
+
+
+Collection number 3
+*******************
+Silverlicious                  0061781231 15.99 39 hardcover 
+Strengths Finder               159562015X 17.99 0  hardcover 
+Heaven is for Real             0849946158 16.99 2  paperback 
+Veganist                       1602861331 25.00 1  hardcover 
+Tick Tock                      0316037915 17.99 3  hardcover 
+Unbroken                       1400064163 27.00 10 hardcover 
+Cancer                         0978806506 32.95 5  paperback 
+In the Blink of an Eye         1401324312 24.99 0  hardcover 
+The 5 Love Languages           0802473156 14.99 0  paperback 
+Battle Hymn of the Tiger ...   1594202842 25.95 5  hardcover 
+Battle Hymn of the Tiger ...   1101475455 12.99 0  ebook     
+Known and Unknown              159523067X 19.99 0  hardcover 
+The Girl Who Kicked Over ...   030726999X 24.95 12 hardcover 
+Moon Over Manifest             0385738838 16.99 0  hardcover 
+West of Her                    1565129520 24.95 0  hardcover 
+Lord of Misrule                0929701836 25.00 2  hardcover 
+Water for Elephants            0123456789  5.00 0  ebook     
+The 4-Hour Body                030746363X 27.00 10 hardcover 
+The Lean belly Prescription    1609610237 24.99 0  hardcover 
+The Investment Answer          1455503304 18.00 0  hardcover 
+
+The total value of Collection number 3 is $1920.46.
+
